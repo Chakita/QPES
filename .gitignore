@@ -1,3 +1,6 @@
-results.txt
+results*
+env/
+.vscode
+__pycache__
 testshell*
 *.ipynb
